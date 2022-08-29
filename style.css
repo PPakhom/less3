@@ -89,12 +89,12 @@ p {
 }
 
 @media (max-width: 1059px) {
-    header {
+    /* header {
 
     }
     .banner {
 
-    }
+    } */
     .cards {
         padding-left: 30px;
         padding-right: 30px;
